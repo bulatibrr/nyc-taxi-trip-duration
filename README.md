@@ -1,2 +1,2 @@
 # nyc-taxi-trip-duration
-Nwy York taxi trip duration with linear regression.
+New York taxi trip duration with linear regression.
